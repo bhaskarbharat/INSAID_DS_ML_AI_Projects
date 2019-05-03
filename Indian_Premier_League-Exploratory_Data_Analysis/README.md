@@ -9,6 +9,8 @@ The IPL is the most-attended cricket league in the world and in 2014 ranked sixt
 There have been __eleven seasons__ of the IPL tournament till 2018.
 
 Currently, with eight teams, each team plays each other twice in a home-and-away round-robin format in the league phase. At the conclusion of the league stage, the top four teams will qualify for the playoffs. The top two teams from the league phase will play against each other in the first Qualifying match, with the winner going straight to the IPL final and the loser getting another chance to qualify for the IPL final by playing the second Qualifying match. Meanwhile, the third and fourth place teams from league phase play against each other in an eliminator match and the winner from that match will play the loser from the first Qualifying match. The winner of the second Qualifying match will move onto the final to play the winner of the first Qualifying match in the IPL Final match, where the winner will be crowned the Indian Premier League champions.
+
+
 ![image.jpg](images/IPL-Trophy.jpg)
 
 ## PROBLEM STATEMENT
@@ -24,8 +26,8 @@ So, I will be presenting my __observations & conclusions__ from the __perspectiv
 - The dataset consists of the information about __Indian Premier League (IPL)__ matches over its 11 seasons. Various variables present in the dataset includes data of season, city, player of match etc. 
 - The dataset comprises of __696 observations of 18 columns__. Below is a table showing names of all the columns and their description.
 
-| Column Name     | Description                                               |
-| ----------------|:-------------                                            :| 
+| Column Name | Description |
+| --- | --- | 
 | Id              | Match Identity                                            | 
 | Season          | Year of the Tournament                                    |  
 | City            | City in which the match was played                        | 
@@ -48,13 +50,13 @@ So, I will be presenting my __observations & conclusions__ from the __perspectiv
 ![image.png](images/Data-Head.png)
 
 ## EXPLORATORY DATA ANALYSIS
-| Target Analysis                    | Finding                                           |
-| -----------------------------------|:-------------                                    :|
+| Target Analysis | Finding |
+| --- | --- |
 | Season Wise Winners & Runners-Up   | ![image.png](images/Season-Wise-Winners.png)      |
 | Matches Won by Each Team           | ![image.png](images/Matches-Won-Each-Team.png)    | 
 | Team Win Chance Against Other Teams| ![image.png](images/Teams-Win-Chance-Head-On.png) | 
 | Team Win Chance Location Wise      | ![image.png](images/Teams-Win-Chance-CityWise.png)|
 
-[Jupyter Notebook](./IPL_EDA_Notebook.ipynb)
-[IPL EDA Presentation](./IPL-EDA-Presentation.pptx)
-[IPL EDA Video Presentation](./IPL-EDA-Video-Presentation.mp4)
+- [Jupyter Notebook](./IPL_EDA_Notebook.ipynb)
+- [IPL EDA Presentation](./IPL-EDA-Presentation.pptx)
+- [IPL EDA Video Presentation](./IPL-EDA-Video-Presentation.mp4)
