@@ -38,3 +38,10 @@ ___
 <a id=section1></a>
 ### [Indian Premier League - Exploratory Data Analysis](./Indian_Premier_League-Exploratory_Data_Analysis)
 ![image.png](images/Indian_Premier_League_Logo.png)
+- The __Indian Premier League (IPL)__ is a professional __Twenty20__ cricket league in India contested during April and May of every year by teams representing 8 Indian cities and some states.
+- __Chennai Super Kings(CSK)__ and __Mumbai Indians(MI)__ are the most successful teams.
+- The primary aim of this __Project__ is to __find out how the Match Winning Percentage of a Team is varying with respect to the various parameters with the help of the data present in the dataset__.
+- [Link for the Jupyter notebook](./Indian_Premier_League-Exploratory_Data_Analysis/IPL_EDA_Notebook.ipynb)
+
+
+___
