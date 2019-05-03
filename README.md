@@ -34,6 +34,7 @@ This repository is about different Data Science, Machine Learning & Artificial I
 ## TABLE OF CONTENTS
 - [Indian Premier League - Exploratory Data Analysis](#section1)<br>
 
+___
 <a id=section1></a>
-### Indian Premier League - Exploratory Data Analysis(./Indian_Premier_League-Exploratory_Data_Analysis)
+### [Indian Premier League - Exploratory Data Analysis](./Indian_Premier_League-Exploratory_Data_Analysis)
 ![image.png](images/Indian_Premier_League_Logo.png)
