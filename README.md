@@ -27,3 +27,13 @@ Artificial intelligence is a very wide term with applications ranging from robot
 
 Data science isn’t exactly a subset of machine learning but it uses ML to analyze data and make predictions about the future. It combines machine learning with other disciplines like big data analytics and cloud computing. Data science is a practical application of machine learning with a complete focus on solving real-world problems.
 ![image.png](images/ds-ml-ai-relation.png)
+
+## REPOSITORY OVERVIEW
+This repository is about different Data Science, Machine Learning & Artificial Intelligence algorithm approaches as per the industry practices.
+
+## TABLE OF CONTENTS
+- [Indian Premier League - Exploratory Data Analysis](#section1)<br>
+
+<a id=section1></a>
+### Indian Premier League - Exploratory Data Analysis(./Indian_Premier_League-Exploratory_Data_Analysis)
+![image.png](images/Indian_Premier_League_Logo.png)
