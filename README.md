@@ -33,6 +33,7 @@ This repository is about different Data Science, Machine Learning & Artificial I
 
 ## TABLE OF CONTENTS
 - [Indian Premier League - Exploratory Data Analysis](#section1)<br>
+- [House Sale Price Prediction](#section2)<br>
 
 ___
 <a id=section1></a>
@@ -42,6 +43,17 @@ ___
 - __Chennai Super Kings(CSK)__ and __Mumbai Indians(MI)__ are the most successful teams.
 - The primary aim of this __Project__ is to __find out how the Match Winning Percentage of a Team is varying with respect to the various parameters with the help of the data present in the dataset__.
 - [Link for the Jupyter notebook](./Indian_Premier_League-Exploratory_Data_Analysis/IPL_EDA_Notebook.ipynb)
+
+
+___
+<a id=section2></a>
+### [House Sale Price Prediction](./House_SalePrice_Prediction)
+![image.jpg](images/HouseSalePricePrediction.jpg)
+- Our goal for this project is to use __Machine Learning Regression Technique__ in order to estimate the __SalePrice (in dollars) for a particular house as a function of 81 explanatory variables describing (almost) every aspect of a house.__
+- We want to find a function that given input data for these 81 explanatory variables predicts the SalePrice of a house.
+- Which feature contribute to *saleprice*?
+- Visualize the relationship between the *features* and the *response*.
+- [Link for the Jupyter notebook](./House_SalePrice_Prediction/HousePricePrediction.ipynb)
 
 
 ___
