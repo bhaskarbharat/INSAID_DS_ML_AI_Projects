@@ -119,3 +119,4 @@ __List of Numerical Features:__
 
 - [Jupyter Notebook](./HousePricePrediction.ipynb)
 - [House Sale Price Prediction Presentation](./HOUSE_SALEPRICE_PREDICTION.pptx)
+- [House Sale Price Prediction Video Presentation](./HouseSalePricePrediction-Video.mp4)
